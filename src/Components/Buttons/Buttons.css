@@ -1,0 +1,24 @@
+button {
+    display: inline-flex;
+    width: 25%;
+    flex: 1 0 auto;
+    border: none !important;
+    border-radius: 0px !important;
+    font-family: 'Orbitron', sans-serif !important;
+}
+
+.orange button {
+    /* background-color: #f5923e; */
+    background-color: 	#0066FF;
+    color: white; 
+}
+
+.black button {
+    background-color: 	#1B1B1B;
+    color: white; 
+}
+
+
+.wide button {
+    width: 50%;
+}
